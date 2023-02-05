@@ -1,0 +1,74 @@
+body{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100%;
+}
+.card1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+}
+.card-body {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 2px 23px #20204a6b;
+    width: 400px;
+}
+.media-card{
+    background-image: url('image/Violet\ Evergarden.png');
+    background-position: center;
+    height: 300px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.45);
+    background-size: contain;
+    background-repeat: no-repeat;    
+}
+.media-card1{
+    background-image: url('image/Yume.png');
+    background-position: center;
+    height: 300px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.45);
+    background-size: contain;
+    background-repeat: no-repeat;    
+}
+
+/**/
+.top-card{
+    padding: 20px;
+    padding-top: 0px;
+}
+.bottom-card{
+    padding: 20px;
+}
+.actions-card{
+    margin-top: 10px;
+}
+.actions{
+    background: none;
+    border: none;
+    color: rgb(184, 0, 184);
+}
+.actions:hover{
+    text-decoration: underline;
+    color: rgb(66, 0, 66);
+}
+.top-text{
+    color: gray;
+    font-size: large;
+    font-weight: 600;
+}
+.bottom-text{
+    text-align: justify;
+}
