@@ -43,16 +43,6 @@ body{
     background-size: contain;
     background-repeat: no-repeat;    
 }
-.media-card2{
-    background-image: url('image/Phoena.jpg');
-    background-position: center;
-    height: 300px;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.45);
-    background-size: contain;
-    background-repeat: no-repeat;    
-}
-
 
 /**/
 .top-card{
